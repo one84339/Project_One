@@ -24,6 +24,11 @@ int len(char s[])
         return i;
 }
 
+void print(char s[])
+{
+    for(int i=0; i<s.length(); i++)
+        cout<< s[i]
+}
 
 int main()
 {
