@@ -1,5 +1,4 @@
 # Project_One
-# Welcome to Manipal Hackathon 2.0 - Round 2 <img align="right" width="100" height="40" src="https://hackathon.techtatva.in/images/lighttheme/logo1.svg">
 
 Click [here]( https://join.slack.com/t/manipalhackathon/shared_invite/zt-gu4o741v-97X4GUIxBlOBuDwhBah3cw) to join our **Slack Workspace**.
 
