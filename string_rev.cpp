@@ -15,7 +15,7 @@ void revstr(char s[],int l)
 
 }
 
-int len(char s[])
+int length(char s[])
 {
     int i;
     for(i =0; s[i]!='\0'; i++)
