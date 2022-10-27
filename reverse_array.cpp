@@ -19,13 +19,6 @@ public :
    void Lshift(int);
 };
 
-
-void Array::Insert()
-{
-
-}
-
-
 void Array::Display()
 {
     int i;
