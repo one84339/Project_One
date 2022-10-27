@@ -1,5 +1,3 @@
-class Solution{
-public:
     int equalPartition(int N, int arr[])
     {
         int sum=0;
@@ -34,4 +32,4 @@ public:
         }
         return dp[n][s];
     }
-};
+
