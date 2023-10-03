@@ -7,11 +7,11 @@
         if(sum%2 !=0)
         return 0;
         else
-        return isSubset(arr,N,sum/2);
+        return checkSubset(arr,N,sum/2);
     }
     
     
-    bool isSubset(int arr[], int n, int s){
+    bool checkSubset(int arr[], int n, int s){
         bool dp[n+1][s+1];
         int i,j;
         
