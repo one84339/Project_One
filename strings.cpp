@@ -45,11 +45,11 @@ void addString(char s1[],char s2[],char s3[])
 
 int main()
 {
-    char s1[20];
-    cin.getline(s1,20);
-    char s2[20];
-    cin.getline(s2,20);
-    char s3[20];
+    char s1[10];
+    cin.getline(s1,10);
+    char s2[10];
+    cin.getline(s2,10);
+    char s3[10];
     addString(s1,s2,s3);
     cout<<s3<<endl;
     //cout<<"result using function"<<strcpy(s1,s2);
