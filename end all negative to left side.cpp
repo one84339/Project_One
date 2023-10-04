@@ -25,7 +25,7 @@ void display(int[] arr, int n)
 
 int main()
 {
-    int arr = {-6,3,-8,10,5,-7,-9,12,-4,2};
+    int arr = {-6,3,-8,10,5,-7,-9,12,-4,5};
     int siz = 10;
     oneside(arr, 10);
     display(arr, 10);
