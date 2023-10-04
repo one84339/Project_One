@@ -1,17 +1,6 @@
 #include <iostream>
 using namespace std;
 
-/*class Array{
-
-public :
-
-int siz;
-int arr[];
-
-
-
-};*/
-
 void oneside(int[] arr, int n)
 {
     int j= n-1;
@@ -24,7 +13,6 @@ void oneside(int[] arr, int n)
            arr[] =  arr[];
         }
     }
-
 }
 
 void display(int[] arr, int n)
